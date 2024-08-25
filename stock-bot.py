@@ -1,2 +1,2 @@
-for i in range(100):
-    print(f'I am number {i}')
+import yfinance as yf
+import pandas as pd
